@@ -65,6 +65,13 @@ You can verify this by going into ECR and confirming that a new image has come i
 
 ![image](https://github.com/user-attachments/assets/edf2b424-1b8e-4578-8acc-e49544861389)
 
+## Deploy ASP.NET Core Web API to Amazon ECS
+
+![image](https://github.com/user-attachments/assets/52b2c329-9da3-4a08-8daf-4282cc5b2c8e)
+
+![image](https://github.com/user-attachments/assets/373c79dc-43b9-4612-973e-4d962d76ad87)
+
+
 
 # References
 https://codewithmukesh.com/blog/deploy-aspnet-core-web-api-to-amazon-ecs/
