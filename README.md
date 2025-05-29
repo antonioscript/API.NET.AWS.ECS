@@ -51,6 +51,11 @@ docker tag book-manager 637423290521.dkr.ecr.us-east-1.amazonaws.com/ecs/book-ma
 docker push 637423290521.dkr.ecr.us-east-1.amazonaws.com/ecs/book-manager
 ```
 
+You can verify this by going into ECR and confirming that a new image has come in.
+
+![image](https://github.com/user-attachments/assets/edf2b424-1b8e-4578-8acc-e49544861389)
+
+
 # References
 https://codewithmukesh.com/blog/deploy-aspnet-core-web-api-to-amazon-ecs/
 
