@@ -35,20 +35,20 @@ docker build -t book-manager .
 ### Pushing Docker Image to Amazon ECR
 
 Open up the Terminal at the location where the DockerFile exists and run the following command. Probably run it line by line.</br>
-</br> **PS: Make sure that you replace the 821175633958 with your AWS account id**
+</br> **PS: Make sure that you replace the 637423290521 with your AWS account id**
 
 
 ```
-aws ecr get-login-password | docker login --username AWS --password-stdin 821175633958.dkr.ecr.ap-south-1.amazonaws.com
+aws ecr get-login-password | docker login --username AWS --password-stdin 637423290521.dkr.ecr.ap-south-1.amazonaws.com
 ```
 
 
 ```
-docker tag book-manager 821175633958.dkr.ecr.ap-south-1.amazonaws.com/cwm/book-manager
+docker tag book-manager 637423290521.dkr.ecr.ap-south-1.amazonaws.com/cwm/book-manager
 ```
 
 ```
-docker push 821175633958.dkr.ecr.ap-south-1.amazonaws.com/cwm/book-manager
+docker push 637423290521.dkr.ecr.ap-south-1.amazonaws.com/cwm/book-manager
 ```
 
 # References
