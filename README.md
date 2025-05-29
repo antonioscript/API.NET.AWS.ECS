@@ -71,6 +71,30 @@ You can verify this by going into ECR and confirming that a new image has come i
 
 ![image](https://github.com/user-attachments/assets/373c79dc-43b9-4612-973e-4d962d76ad87)
 
+![image](https://github.com/user-attachments/assets/a8dcff17-c784-45b4-8519-bf405f6594ed)
+
+
+### Create Tasks
+- Mongo DB Task
+- Book Manager Task
+
+Go to AWS ECS, and on the sidebar, click on Task Definitions. Here, Create a new Task Definition.
+
+![image](https://github.com/user-attachments/assets/c337f25e-e0ff-4961-8752-62ccb3f8c4a9)
+
+![image](https://github.com/user-attachments/assets/9325daec-d29d-40d0-a17d-904df79342de)
+
+![image](https://github.com/user-attachments/assets/23df045e-415d-498b-adb5-6f3c2bdcff3f)
+
+![image](https://github.com/user-attachments/assets/3ffe0c31-684a-459d-b7c6-1410b6e5274b)
+
+### Create Service
+
+![image](https://github.com/user-attachments/assets/a1bf71f0-2859-426b-abe9-79ea5941cf5f)
+
+![image](https://github.com/user-attachments/assets/e634bcf6-ba1d-4164-98f6-5c2ef9f63a62)
+
+
 
 
 # References
