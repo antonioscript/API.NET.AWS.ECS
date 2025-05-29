@@ -39,16 +39,16 @@ Open up the Terminal at the location where the DockerFile exists and run the fol
 
 
 ```
-aws ecr get-login-password | docker login --username AWS --password-stdin 637423290521.dkr.ecr.ap-south-1.amazonaws.com
+aws ecr get-login-password | docker login --username AWS --password-stdin 637423290521.dkr.ecr.us-east-1.amazonaws.com
 ```
 
 
 ```
-docker tag book-manager 637423290521.dkr.ecr.ap-south-1.amazonaws.com/cwm/book-manager
+docker tag book-manager 637423290521.dkr.ecr.us-east-1.amazonaws.com/ecs/book-manager
 ```
 
 ```
-docker push 637423290521.dkr.ecr.ap-south-1.amazonaws.com/cwm/book-manager
+docker push 637423290521.dkr.ecr.us-east-1.amazonaws.com/ecs/book-manager
 ```
 
 # References
