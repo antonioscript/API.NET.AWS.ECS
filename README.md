@@ -4,6 +4,7 @@ Cloud-native .NET API deployed on AWS using ECS with Fargate. Containerized, sca
 # Summary
 - [Application](#application)
 - [Amazon ECR](#amazon-ecr)
+- [References](#references)
 
 
 
@@ -18,7 +19,7 @@ docker build -t book-manager .
 
 ## Amazon ECR
 
-## Create Repository
+### Create Repository
 
 # References
 https://codewithmukesh.com/blog/deploy-aspnet-core-web-api-to-amazon-ecs/
