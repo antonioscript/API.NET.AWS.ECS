@@ -20,10 +20,17 @@ docker build -t book-manager .
 
 ![image](https://github.com/user-attachments/assets/b3a30418-9006-40d0-8f9f-7682b90c435a)
 
+### Execute Container
+```
+docker run -p 8080:8080 -e MONGODBCONFIG:CONNECTIONSTRING='mongodb://host.docker.internal:27017' -e ASPNETCORE_ENVIRONMENT=Development book-manager
+```
+![image](https://github.com/user-attachments/assets/0c65f354-efb3-407f-aed4-28372db0f0d2)
+
 
 ## Amazon ECR
 
 ![image](https://github.com/user-attachments/assets/0a764a2d-8e5c-4839-93d6-4ae536db2c11)
+
 
 
 ### Create Repository
