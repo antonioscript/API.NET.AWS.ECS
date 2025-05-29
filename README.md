@@ -5,6 +5,7 @@ Cloud-native .NET API deployed on AWS using ECS with Fargate. Containerized, sca
 - [Application](#application)
 - [Amazon ECR](#amazon-ecr)
 - [Pushing Docker Image to Amazon ECR](#pushing-docker-image-to-amazon-ecr)
+- [Deploy ASP.NET Core Web API to Amazon ECS](#deploy-aspnet-core-web-api-to-amazon-ecs)
 - [References](#references)
 
 
@@ -24,6 +25,8 @@ docker build -t book-manager .
 ```
 docker run -p 8080:8080 -e MONGODBCONFIG:CONNECTIONSTRING='mongodb://host.docker.internal:27017' -e ASPNETCORE_ENVIRONMENT=Development book-manager
 ```
+</br>
+
 ![image](https://github.com/user-attachments/assets/0c65f354-efb3-407f-aed4-28372db0f0d2)
 
 
