@@ -88,12 +88,23 @@ Go to AWS ECS, and on the sidebar, click on Task Definitions. Here, Create a new
 
 ![image](https://github.com/user-attachments/assets/3ffe0c31-684a-459d-b7c6-1410b6e5274b)
 
-### Create Service
+### Create Service Mongo 
 
 ![image](https://github.com/user-attachments/assets/a1bf71f0-2859-426b-abe9-79ea5941cf5f)
 
 ![image](https://github.com/user-attachments/assets/e634bcf6-ba1d-4164-98f6-5c2ef9f63a62)
 
+### Create Task .NET API 
+
+![image](https://github.com/user-attachments/assets/6d953bda-33c1-4ca1-b058-1c8c11f76627)
+
+![image](https://github.com/user-attachments/assets/22e3905d-ccaa-46b9-b855-2d813bbe7d61)
+
+![image](https://github.com/user-attachments/assets/5d0074c5-108d-4eb0-b9ee-8cab23e57c48)
+
+### Create Service .NET API 
+
+![image](https://github.com/user-attachments/assets/4b8537e1-4d26-4628-b567-5828276b3bd5)
 
 
 
