@@ -118,6 +118,8 @@ _PS: If port 80 does not work, put 8080 and remember to release the entry in the
 
 _PS: The Secret for connection with the mango work is in the environment variables!_
 
+</br>
+
 > The application uses environment variables defined in ECS to override values from `appsettings.json`. ASP.NET Core automatically recognizes these variables when they follow the `Section__Property` pattern (with double underscores), allowing the app to be configured without modifying code or internal files.
 
 ### Create Service .NET API 
