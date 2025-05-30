@@ -109,6 +109,7 @@ Go to AWS ECS, and on the sidebar, click on Task Definitions. Here, Create a new
 
 ![image](https://github.com/user-attachments/assets/22e3905d-ccaa-46b9-b855-2d813bbe7d61)
 _PS: The Secret for connection with the mango work is in the environment variables!_
+_PS: If port 80 does not work, put 8080 and remember to release the entry in the security group_
 
 </br>
 
