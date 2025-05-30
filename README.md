@@ -13,6 +13,7 @@ Cloud-native .NET API deployed on AWS using ECS with Fargate. Containerized, sca
   - [Create Service Mongo](#create-service-mongo)
   - [Create Task .NET API](#create-task-net-api)
   - [Create Service .NET API](#create-service-net-api)
+- [Test](#test)
 - [References](#references)
 
 
@@ -118,8 +119,21 @@ _PS: The Secret for connection with the mango work is in the environment variabl
 ![image](https://github.com/user-attachments/assets/4b8537e1-4d26-4628-b567-5828276b3bd5)
 
 
+## Test
 
-# References
+_URL: http://44.197.101.227:8080/swagger_
+
+</br>
+
+Go to Public IP of Service API and paste in browser
+</br>
+
+![image](https://github.com/user-attachments/assets/ddde160b-1939-41d1-aac6-f10eb376cce0)
+
+
+
+
+## References
 https://codewithmukesh.com/blog/deploy-aspnet-core-web-api-to-amazon-ecs/
 
 https://www.cloudzero.com/blog/ecs-vs-eks/
