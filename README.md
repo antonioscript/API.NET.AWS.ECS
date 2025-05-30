@@ -107,6 +107,7 @@ Go to AWS ECS, and on the sidebar, click on Task Definitions. Here, Create a new
 ![image](https://github.com/user-attachments/assets/6d953bda-33c1-4ca1-b058-1c8c11f76627)
 
 ![image](https://github.com/user-attachments/assets/22e3905d-ccaa-46b9-b855-2d813bbe7d61)
+PS: The Secret for connection with the mango work is in the environment variables!
 
 ![image](https://github.com/user-attachments/assets/5d0074c5-108d-4eb0-b9ee-8cab23e57c48)
 
