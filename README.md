@@ -1,5 +1,5 @@
 # API.NET.AWS.ECS
-Cloud-native .NET API deployed on AWS using ECS with Fargate. Containerized, scalable, and serverless architecture
+API developed in .NET, containerized with Docker, and deployed to AWS using ECS Fargate. The cluster includes two main services: the API itself and a MongoDB database.
 
 # Summary
 - [Application](#application)
