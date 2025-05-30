@@ -3,10 +3,18 @@ Cloud-native .NET API deployed on AWS using ECS with Fargate. Containerized, sca
 
 # Summary
 - [Application](#application)
+  - [Create Docker Image](#create-docker-image)
+  - [Execute Container](#execute-container)
 - [Amazon ECR](#amazon-ecr)
-- [Pushing Docker Image to Amazon ECR](#pushing-docker-image-to-amazon-ecr)
+  - [Create Repository](#create-repository)
+  - [Pushing Docker Image to Amazon ECR](#pushing-docker-image-to-amazon-ecr)
 - [Deploy ASP.NET Core Web API to Amazon ECS](#deploy-aspnet-core-web-api-to-amazon-ecs)
+  - [Create Tasks](#create-tasks)
+  - [Create Service Mongo](#create-service-mongo)
+  - [Create Task .NET API](#create-task-net-api)
+  - [Create Service .NET API](#create-service-net-api)
 - [References](#references)
+
 
 
 
